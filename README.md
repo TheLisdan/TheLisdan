@@ -96,6 +96,7 @@ Status: Remote / Poland (Jan 2026 - Present)
 [ROLE] Clandai — Web3 Gaming & FinTech Platform
 Status: Remote / Startup (Aug 2025 - Jan 2026)
 Repository: <a href="https://github.com/TheLisdan/clandai-demo">github.com/TheLisdan/clandai-demo</a>
+Mobile Demo: <a href="https://clandai-front-test-git-frontend-standalone-thelisdans-projects.vercel.app/">Click</a>
 
   • REAL-TIME ENGINE: Designed a real-time blockchain event tracking engine using WebSockets, reactive frontend state and event-driven backend architecture.
 
@@ -111,6 +112,7 @@ Repository: <a href="https://github.com/TheLisdan/clandai-demo">github.com/TheLi
 [PROJECT] LeisureTask — Gamified SaaS Platform
 Status: Production Personal Project (Sep 2024 - May 2025)
 Repository: <a href="https://github.com/TheLisdan/leisuretask">github.com/TheLisdan/leisuretask</a>
+Demo: <a href=https://leisuretask-demo.vercel.app">LeisureTask Demo</a>
 
   • MONOREPO STRUCTURE: Designed and built a production-grade gamified task-management SaaS as a pnpm monorepo with shared validation models.
 
